@@ -1,0 +1,8 @@
+c:\users\jtoth\documents\visual studio 2015\Projects\FindReplaceInRMFile\FindReplaceInRMFile\bin\Debug\FindReplaceInRMFile.exe.config
+c:\users\jtoth\documents\visual studio 2015\Projects\FindReplaceInRMFile\FindReplaceInRMFile\bin\Debug\FindReplaceInRMFile.exe
+c:\users\jtoth\documents\visual studio 2015\Projects\FindReplaceInRMFile\FindReplaceInRMFile\bin\Debug\FindReplaceInRMFile.pdb
+c:\users\jtoth\documents\visual studio 2015\Projects\FindReplaceInRMFile\FindReplaceInRMFile\bin\Debug\log4net.dll
+c:\users\jtoth\documents\visual studio 2015\Projects\FindReplaceInRMFile\FindReplaceInRMFile\bin\Debug\log4net.xml
+c:\users\jtoth\documents\visual studio 2015\Projects\FindReplaceInRMFile\FindReplaceInRMFile\obj\Debug\FindReplaceInRMFile.csprojResolveAssemblyReference.cache
+c:\users\jtoth\documents\visual studio 2015\Projects\FindReplaceInRMFile\FindReplaceInRMFile\obj\Debug\FindReplaceInRMFile.exe
+c:\users\jtoth\documents\visual studio 2015\Projects\FindReplaceInRMFile\FindReplaceInRMFile\obj\Debug\FindReplaceInRMFile.pdb
